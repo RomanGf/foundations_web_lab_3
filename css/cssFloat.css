@@ -1,0 +1,44 @@
+.container {
+  width: 70%;
+  height: 747px;
+  margin: 0 auto;
+}
+.container__header {
+  height: 40%;
+  width: 100%;
+  background-color: #0fb7eb;
+}
+
+.header_images {
+  float: left;
+  width: 50%;
+}
+
+.header_images > img {
+  width: 100%;
+  height: 10%;
+}
+
+.header_text {
+  float: right;
+  width: 50%;
+}
+
+.container__text {
+  height: 20%;
+  width: 100%;
+  background-color: #9191fb;
+  padding-top: 10%;
+  text-align: center;
+}
+
+.container__footer {
+  height: 40%;
+  width: 100%;
+  background-color: #f0c73f;
+  margin: 0 auto;
+}
+.container__footer > img {
+  height: 100%;
+  width: 100%;
+}
